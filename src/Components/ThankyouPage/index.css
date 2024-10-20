@@ -1,0 +1,59 @@
+.main_bg_container{
+    display: flex;
+    justify-content: center;
+}
+.thankyou_card_bg{
+    width: 453px;
+    height: 661px;
+    left: 2px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+
+}
+.cancel_btn{
+    width: 10px;
+    height: 9px;
+    top: 25px;
+    left: 418px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(0, 0, 0, 1);
+    border: none;
+    background-color: transparent;
+    
+}
+.thanks{
+    width: 230px;
+    height: 83px;
+    top: 146px;
+    left: 112px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: center;
+    background: rgba(22, 83, 21, 1);
+    align-self: center;
+
+}
+.cotinue_shopping_btn{
+    width: 307px;
+    height: 45px;
+    top: 514px;
+    left: 73px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(22, 83, 21, 1);
+    border: none;
+    color: white;
+    text-align: center;
+    
+}

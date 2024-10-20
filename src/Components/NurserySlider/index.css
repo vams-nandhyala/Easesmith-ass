@@ -1,0 +1,44 @@
+.nursery_slider_main_container{
+    display: flex;
+    flex-direction: row;
+}
+.nursery_items{
+    display: flex;
+    flex-direction: column;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.img{
+    width: 120px;
+    height: 120px;
+    left: 82px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 60px;
+    
+
+}
+.para{
+    width: 172px;
+    height: 81px;
+    top: 145px;
+    left: 62px;
+    gap: 0px;
+    opacity: 0px;
+    width: 172px;
+    height: 81px;
+    top: 145px;
+    left: 62px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: rgba(131, 131, 131, 1);
+
+
+}

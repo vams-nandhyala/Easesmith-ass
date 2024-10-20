@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.tab-item {
+    list-style-type: none;
+  }
+  
+  .tab-button {
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  
+  
+  .active {
+    color: rgba(243, 169, 57, 1);
+    border-bottom: 2px solid rgba(243, 169, 57, 1);
+    padding-bottom: 8px;
+  }
+  
+  
