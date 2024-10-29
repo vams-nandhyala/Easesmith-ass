@@ -16,18 +16,7 @@
     align-items: center;
 
 }
-.cancel_btn{
-    width: 10px;
-    height: 9px;
-    top: 25px;
-    left: 418px;
-    gap: 0px;
-    opacity: 0px;
-    background: rgba(0, 0, 0, 1);
-    border: none;
-    background-color: transparent;
-    
-}
+
 .thanks{
     width: 230px;
     height: 83px;
